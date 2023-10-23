@@ -1,0 +1,6 @@
+ls ==> To check the files in the current folder.
+ls -a ==> To check hidden files in the current folder.
+cd "Folder Name" ==> To move into a folder.
+cd ==> To move out of a folder.
+rm -r ==> Delete a File.
+rm -rf ==> Remove a folder.
