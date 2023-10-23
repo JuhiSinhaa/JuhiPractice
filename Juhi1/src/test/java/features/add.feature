@@ -1,6 +1,6 @@
 @add2
 Feature: sum
-  I want to add 2 numbers
+  I want to add 2 numbers and check the results
 
   @add3
   Scenario: add a and b
