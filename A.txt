@@ -7,3 +7,5 @@ cd projects
 git clone https://github.com/seanbecker15/wherecanifindit.git
 cd wherecanifindit (if I want to go into the directory)
 p.s. wherecanifindit is just the name of my git repository, not a command!
+
+addition
